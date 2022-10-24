@@ -1,0 +1,9 @@
+1. 오라클을 실행시킨다.
+   코드 내 테이블을 확인한 후(MemberDAO.java 내에 sql실행문을 확인하여
+   테이블을 생성한다.(sqlplus 또는 sqldeveloper를 통해 생성한다.)
+
+2. 아이피, 포트번호를 pc에 맞게 수정한 후
+   서버를 실행시킨다(ChatServerObject.java)
+
+3. 채팅 클라이언트를 실행시킨다(ChatClientObject.java)
+
